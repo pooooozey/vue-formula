@@ -17,7 +17,7 @@
 export default {
   data(){
     return {
-      img : "./loading.gif",
+      img : "/dist/loading.gif",
       title : "",
       cont : ""
     }

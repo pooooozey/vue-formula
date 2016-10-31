@@ -16,14 +16,14 @@ export default {
       newsList : [
         {
             "id" : 0,
-            "imgsrc" : "./dist/news.jpg",
+            "imgsrc" : "/dist/news.jpg",
             "title" : "vue版配方助手上线了",
             "caption" : "vue版配方助手上线了",
             "cont" : "&emsp;&emsp;历尽千辛万苦，vue版配方助手终于上线了!<br>&emsp;&emsp;只需要在已录入的配方中输入重量就能显示出对应的配料重量！"
         },
         {
             "id" : 1,
-            "imgsrc" : "./dist/news.jpg",
+            "imgsrc" : "/dist/news.jpg",
             "title" : "配方助手新功能预告",
             "caption" : "配方助手新功能",
             "cont" : "配方助手将上线做菜步骤功能！"
@@ -32,7 +32,7 @@ export default {
       onlineFormulaList : [
         {
             "id" : 0,
-            "imgsrc" : "./dist/1.jpg",
+            "imgsrc" : "/dist/1.jpg",
             "title" : "水煮鱼",
             "ingredients" : [
                 {
@@ -59,7 +59,7 @@ export default {
         },
         {
             "id" : 1,
-            "imgsrc" : "./dist/2.jpg",
+            "imgsrc" : "/dist/2.jpg",
             "title" : "麻婆豆腐",
             "ingredients" : [
                 {
@@ -86,7 +86,7 @@ export default {
         },
         {
             "id" : 2,
-            "imgsrc" : "./dist/3.jpg",
+            "imgsrc" : "/dist/3.jpg",
             "title" : "鱼香肉丝",
             "ingredients" : [
                 {
@@ -108,7 +108,7 @@ export default {
         },
         {
             "id" : 3,
-            "imgsrc" : "./dist/4.jpg",
+            "imgsrc" : "/dist/4.jpg",
             "title" : "宫保鸡丁",
             "ingredients" : [
                 {
